@@ -1,0 +1,15 @@
+{
+  "name": "namely-okta",
+  "version": "1.0.0",
+  "dependencies": {
+  "okta-node": "2.0.1",
+  "asyncawait": "1.0.6"
+},
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "avb",
+  "license": "ISC"
+}
